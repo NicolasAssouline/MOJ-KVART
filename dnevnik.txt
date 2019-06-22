@@ -1,0 +1,35 @@
+Sastanak 01
+Datum održavanja:	19. listopada 2018.
+Prisutni:	Mate Gašparini, Nicolas Assouline, Dana Dodigović, David Dukić, Marko Kršić, Marino Kurtović
+Sadržaj:	Podjela poslova - opis projekta i funkcionalni zahtjevi
+		Rasprava o odabiru tehnologija
+
+Sastanak 02
+Datum održavanja:	23. listopada 2018.
+Prisutni:	Mate Gašparini, Nicolas Assouline, Dana Dodigović, David Dukić, Marko Kršić, Marino Kurtović
+Sadržaj:	Provjera točnosti funkcionalnih zahtjeva
+		Podjela poslova - dijagrami obrazaca uporabe i sekvencijski dijagrami
+
+Sastanak 03
+Datum održavanja:	30. listopada 2018.
+Prisutni:	Mate Gašparini, Marko Kršić, Marino Kurtović
+Sadržaj:	Provjera točnosti napravljenih dijagrama i eventualni ispravci
+		Podjela poslova - nefunkcionalni zahtjevi
+
+Sastanak 04
+Datum održavanja:	21. studenoga 2018.
+Prisutni:	Mate Gašparini, Nicolas Assouline, Dana Dodigović, David Dukić, Marko Kršić, Marino Kurtović
+Sadržaj:	Općenita rasprava o nadolazećoj implementaciji
+		Podjela poslova - pismeni opis baze, dijagram razreda
+
+Sastanak 05
+Datum održavanja:	12. prosinca 2018.
+Prisutni:	Mate Gašparini, Nicolas Assouline, David Dukić, Marko Kršić, Marino Kurtović
+Sadržaj:	Pokazan postupak importanja stvorenih projekata u IDE
+		Podjela poslova - backend, frontend
+
+Sastanak 06
+Datum održavanja:	8. siječnja 2019.
+Prisutni:	Mate Gašparini, Nicolas Assouline, Dana Dodigović, David Dukić, Marko Kršić, Marino Kurtović
+Sadržaj:	Kontrola dosadašnje implementacije
+		Podjela poslova - dokumentacija revizije 2

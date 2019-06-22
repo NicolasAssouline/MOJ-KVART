@@ -1,0 +1,56 @@
+.line {
+    width: 100%;
+    border-bottom: 1px solid #e8ebef;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.create_new_report {
+    font-size: 18px;
+    margin-top: 8px;
+    margin-bottom: 3px;
+    margin-left: 2px;
+    font-weight: bold;
+    color: #29262d;
+    background-color: #b8b8d6;
+}
+
+.create_report_input {
+    font-size: 5px;
+    color: black;
+    padding-top: 10px;
+    margin-bottom: 1px;
+    margin-top: 5px;
+}
+
+.new_report_button {
+    background-color: #f9b848;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin-top: 10px;
+    border-radius: 3px;
+    margin-bottom: 18px;
+    margin-left: 2px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.new_report_button:hover {
+    background-color: #fcc362;
+    cursor: pointer;
+    color: white;
+}
+
+.new_report_card {
+    padding: 0 3px;
+    background-color: #c5c5d8;
+    border-radius: 3px;
+    margin-top: 10px;
+    display: inline-block;
+    width: 100%;
+}

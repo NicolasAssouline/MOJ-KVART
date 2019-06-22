@@ -1,0 +1,26 @@
+.report_card {
+    background-color: #dcdcef;
+    display: block;
+    margin-bottom: 1px;
+    height: 110px;
+    /*padding-left: 3px;*/
+    border-radius: 3px;
+    font-size: 18px;
+    border: 1px solid #aeaec1;
+}
+
+.posted_on_card {
+    background-color: #cccce0;
+    font-size: 15px;
+    font-weight: bold;
+    /*padding-left: 3px;*/
+}
+
+.posted_by_card {
+    background-color: #cccce0;
+    font-size: 15px;
+    margin-bottom: 1px;
+    margin-top: 50px;
+    font-weight: bold;
+    /*padding-left: 3px;*/
+}

@@ -1,0 +1,15 @@
+.delete_thread_button {
+    padding: 2px;
+    margin-bottom: 2px;
+    margin-left: 3px;
+    font-weight: normal;
+    font-size: 17px;
+    background-color: #a32a33;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 3px;
+}
+

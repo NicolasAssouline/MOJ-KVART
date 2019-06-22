@@ -1,0 +1,70 @@
+.SignupForm {
+    margin: 100px 400px 0 400px;
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+}
+
+.error {
+    color: red;
+    margin-bottom: 8px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#sign_up_button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    width: 100%;
+    margin-top: 25px;
+    border-radius: 8px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#sign_up_button:hover {
+    background-color: #59ba5d;
+}
+
+.SignupForm .Card {
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2);
+}
+
+.SignupForm .Card h2 {
+    font-size: 35px;
+}
+
+.or {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: grey;
+}
+
+.link {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #3e81c3;
+}
+
+.login_sentence {
+    margin-bottom: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.SignupForm .dropdown_menu {
+    display: inline-block;
+    background-color: white;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+

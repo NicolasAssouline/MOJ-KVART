@@ -1,0 +1,15 @@
+.edit_post_button {
+    padding: 1px;
+    margin-bottom: 2px;
+    margin-left: 3px;
+    background-color: #f9b848; 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 3px;
+    font-family: 'Roboto', sans-serif;
+    float: right;
+    font-size: 13px;
+}

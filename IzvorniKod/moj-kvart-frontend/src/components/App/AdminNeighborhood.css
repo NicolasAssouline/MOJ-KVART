@@ -1,0 +1,18 @@
+.HS {
+    margin: 100px 400px 0 400px;
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    flex-direction: column;
+}
+
+.HS .Card {
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2);
+    font-family: 'Roboto', sans-serif;
+}
+
+.error {
+    color: red;
+    margin-bottom: 8px;
+    font-family: 'Roboto', sans-serif;
+}

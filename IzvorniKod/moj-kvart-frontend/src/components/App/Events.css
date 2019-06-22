@@ -1,0 +1,79 @@
+.error {
+    color: red;
+    margin-bottom: 8px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.event_button {
+    background-color: #f9b848;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin-top: 10px;
+    border-radius: 3px;
+    margin-bottom: 18px;
+    margin-left: 2px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.event_button:hover {
+    background-color: #fcc362;
+    cursor: pointer;
+    color: white;
+}
+
+.accept_button {
+    background-color: #32a32e;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin-top: 5px;
+    border-radius: 3px;
+    margin-bottom: 13px;
+    margin-left: 2px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.edit_event_button {
+    background-color: #428bca;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin-top: 5px;
+    border-radius: 3px;
+    margin-bottom: 13px;
+    margin-left: 2px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.decline_button {
+    background-color: #a32a33;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin-top: 5px;
+    border-radius: 3px;
+    margin-bottom: 13px;
+    margin-left: 2px;
+    font-family: 'Roboto', sans-serif;
+}

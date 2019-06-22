@@ -1,0 +1,66 @@
+.header {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    /*align-items: center;*/
+    /*justify-content: center;*/
+    border-bottom: solid 1px #cccccc;
+    background-color: #4e4e99;
+    height: 44px;
+}
+
+.header a {
+    font-family: 'Roboto', sans-serif;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 10px;
+    border-radius: 4px;
+    margin-right: 5px;
+    margin-bottom: 17px;
+    margin-top: 5px;
+}
+
+.logo_header {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 10px;
+    color: white;
+    /*margin-bottom: 17px;*/
+    /*margin-top: 5px;*/
+}
+
+.logo_text_header {
+    color: white;
+    font-size: 24px;
+    margin-left: 5px;
+    /* change this!!! */
+    margin-right: 550px;
+    /*margin-bottom: 17px;*/
+    /*margin-top: 5px;*/
+}
+
+.login {
+    background-color: #4e9af1;
+    transition: all 0.2s;
+}
+
+.signup {
+    background-color: #9a4ef1;
+    transition: all 0.2s;
+    margin-left: 5px;
+}
+
+.header-right {
+    float: right;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.container_logo {
+    display: inline-block;
+    margin-bottom: 17px;
+    margin-top: 5px; 
+}

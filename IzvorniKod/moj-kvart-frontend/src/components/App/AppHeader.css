@@ -1,0 +1,67 @@
+.AppHeader {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    /*align-items: center;*/
+    /*justify-content: center;*/
+    border-bottom: solid 1px #cccccc;
+    background-color: #4e4e99;
+}
+
+.logo {
+    width: 25px;
+    height: 25px;
+    margin-left: 10px;
+}
+
+.AppHeader span {
+    color: white;
+    font-size: 17px;
+    margin-left: 5px;
+}
+
+.AppHeader a {
+    /*font-family: sans-serif;*/
+    font-weight: 600;
+    font-style: normal;
+    color: #b9b9cc;
+    padding: 5px 10px;
+    margin: 0 35px;
+    text-decoration: none;
+    border-radius: 3px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.AppHeader a:visited {
+    background-color: black;
+}
+
+.AppHeader a:hover {
+    background-color: #4e9af1;
+}
+
+.logout_button {
+    font-family: "Arial";
+    font-weight: 600;
+    /*color: #b9b9cc;*/
+    font-style: normal;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 3px;
+    border: none;
+    /*background-color: #4e9af1*/;
+    display: inline-block;
+    margin-right: 10px;
+    background-color: #428bca;
+    color: white;
+}
+
+.logout_button:hover {
+    /*background-color: #bf6f15;*/
+    cursor: pointer;
+
+}
+
+.app_header_right {
+    float: right;
+}
